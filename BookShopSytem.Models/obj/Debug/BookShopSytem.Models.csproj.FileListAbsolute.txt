@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSytem.Models\bin\Debug\BookShopSytem.Models.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSytem.Models\bin\Debug\BookShopSytem.Models.pdb
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSytem.Models\obj\Debug\BookShopSytem.Models.pdb

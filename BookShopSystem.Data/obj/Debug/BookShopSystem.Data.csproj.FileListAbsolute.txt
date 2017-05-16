@@ -1,0 +1,16 @@
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll.config
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.pdb
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSytem.Models.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSytem.Models.pdb
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.dll
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.pdb
