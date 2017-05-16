@@ -18,7 +18,11 @@ namespace BookShopSystem.Web.Controllers
         }
 
         #region Get
-
+        /// <summary>
+        /// This get authors by Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route("{id}")]
         public IHttpActionResult Get(int id)
@@ -32,6 +36,12 @@ namespace BookShopSystem.Web.Controllers
             return this.Ok(vm);
         }
 
+        
+        /// <summary>
+        /// Get All books of author with relevant Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route("{id}/books")]    
         public IHttpActionResult GetBooks(int id)
@@ -49,6 +59,11 @@ namespace BookShopSystem.Web.Controllers
 
         #region Post
 
+        /// <summary>
+        /// This Adding new author
+        /// </summary>
+        /// <param name="bind"></param>
+        /// <returns></returns>
         [HttpPost]
         [Route]
         public IHttpActionResult Post(AddAuthorBm bind)

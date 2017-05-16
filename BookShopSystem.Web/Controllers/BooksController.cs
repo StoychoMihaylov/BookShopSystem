@@ -18,7 +18,11 @@ namespace BookShopSystem.Web.Controllers
         }
 
         #region Get
-
+        /// <summary>
+        /// This get book by title
+        /// </summary>
+        /// <param name="search"></param>
+        /// <returns></returns>
         [HttpGet, Route]
         public IHttpActionResult Get(string search)
         {
@@ -30,7 +34,11 @@ namespace BookShopSystem.Web.Controllers
             IEnumerable<ShortBookVm> vms = this._service.GetBookByTitle(search);
             return this.Ok(vms);
         }
-
+        /// <summary>
+        /// This get book by Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet, Route("{id}")]
         public IHttpActionResult Get(int id)
         {
@@ -46,7 +54,11 @@ namespace BookShopSystem.Web.Controllers
         #endregion
 
         #region Delete
-
+        /// <summary>
+        /// This Delete book by Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpDelete]
         [Route("{id}")]
         public IHttpActionResult Delete(int id)
@@ -63,7 +75,12 @@ namespace BookShopSystem.Web.Controllers
         #endregion
 
         #region PUT
-
+        /// <summary>
+        /// This edit book by Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="bind"></param>
+        /// <returns></returns>
         [HttpPut]
         [Route("{id}")]
         public IHttpActionResult Put(int id, EditBookBm bind)
@@ -84,7 +101,11 @@ namespace BookShopSystem.Web.Controllers
         }
 
         #endregion
-
+        /// <summary>
+        /// This Add new book
+        /// </summary>
+        /// <param name="bind"></param>
+        /// <returns></returns>
         [HttpPost, Route]
         public IHttpActionResult Post(AddBookBm bind)
         {

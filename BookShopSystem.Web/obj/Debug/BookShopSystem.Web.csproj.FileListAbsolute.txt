@@ -157,3 +157,4 @@ C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Web\bin\zh-Hant\System.Sp
 C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Web\obj\Debug\BookShopSystem.Web.csprojResolveAssemblyReference.cache
 C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Web\obj\Debug\BookShopSystem.Web.dll
 C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Web\obj\Debug\BookShopSystem.Web.pdb
+C:\Users\Stoycho\Desktop\BookShopSystem\BookShopSystem.Web\bin\XmlDocumentation.xml
